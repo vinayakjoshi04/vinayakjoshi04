@@ -65,7 +65,7 @@ me.say_hi()
 <img src="https://skillicons.dev/icons?i=docker,vercel" />
 
 ### **Tools & IDEs**
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,figma,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,postman" />
 
 </div>
 
