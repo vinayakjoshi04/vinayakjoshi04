@@ -20,6 +20,8 @@
 
 ## 🎯 About Me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 I'm a passionate Computer Science student specializing in **Artificial Intelligence** and **Machine Learning**, with a strong foundation in full-stack development. I thrive on solving complex problems and building scalable solutions that make a real-world impact.
 
 ```python
