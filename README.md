@@ -166,7 +166,7 @@ me.say_hi()
 
 <div align="center">
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakjoshi04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakjoshi04&theme=tokyo-night&hide_border=true&area=true" />
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayakjoshi04&theme=tokyonight" />
 </div>
 
 ---
