@@ -1,248 +1,176 @@
+# Vinayak Joshi
+
 <div align="center">
 
-# 🚀 Welcome to Vinayak Joshi's Digital Universe 🌟
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full-Stack+Developer;Data+Science+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Turning+Ideas+into+Intelligent+Solutions;Building+the+Future+with+Code+%26+Data" alt="Typing SVG" />
+**Transforming ideas into intelligent solutions through code and data**
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=vinayakjoshi04&label=Profile%20Views&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=vinayakjoshi04)
-[![GitHub followers](https://img.shields.io/github/followers/vinayakjoshi04?label=Followers&style=social)](https://github.com/vinayakjoshi04)
-[![GitHub stars](https://img.shields.io/github/stars/vinayakjoshi04?label=Stars&style=social)](https://github.com/vinayakjoshi04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-joshi-99521528b/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vinayakjoshi2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vinayakjoshi04)
+
+![Profile Views](https://komarev.com/ghpvc/?username=vinayakjoshi04&color=2F81F7&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/vinayakjoshi04?style=flat&color=2F81F7)
+![GitHub stars](https://img.shields.io/github/stars/vinayakjoshi04?style=flat&color=2F81F7)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## 🎯 About Me
 
-## 👨‍💻 About Me
+I'm a passionate Computer Science student specializing in **Artificial Intelligence** and **Machine Learning**, with a strong foundation in full-stack development. I thrive on solving complex problems and building scalable solutions that make a real-world impact.
 
 ```python
-class VinayakJoshi:
+class Developer:
     def __init__(self):
-        self.username = "vinayakjoshi04"
         self.name = "Vinayak Joshi"
-        self.position = "AI/ML Engineer & Full-Stack Developer"
+        self.role = "AI/ML Engineer & Full-Stack Developer"
+        self.location = "India"
         self.education = "Computer Science Student"
-        self.code = {
-            "languages": ["Python", "Java", "JavaScript", "C++"],
-            "specialization": ["Machine Learning", "Deep Learning", "Web Dev"],
-            "tools": ["TensorFlow", "Scikit-learn", "Node.js", "React"],
-            "databases": ["MongoDB", "MySQL", "PostgreSQL"],
-            "cloud": ["AWS", "Google Cloud", "Heroku"]
-        }
-        self.current_focus = "Building AI solutions that matter"
         
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = VinayakJoshi()
-me.say_hi()
+    def get_skills(self):
+        return {
+            "languages": ["Python", "JavaScript", "Java", "C++"],
+            "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV"],
+            "web": ["React.js", "Node.js", "Express.js", "MongoDB"],
+            "tools": ["Git", "Docker", "AWS", "Jupyter"],
+            "focus": "Building AI solutions that solve real problems"
+        }
+        
+    def current_status(self):
+        return "Actively seeking opportunities in AI/ML and Software Development"
 ```
 
-<br/>
-
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🚀 Tech Stack
 
 <div align="center">
 
-### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,html,css" />
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### **AI/ML & Data Science**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### **Web Development & Frameworks**
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github" />
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=docker,vercel" />
-
-### **Tools & IDEs**
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,postman" />
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 **Featured Projects**
+## 💼 Featured Projects
+
+### 🏥 [Heart Disease Prediction System](https://github.com/vinayakjoshi04/Heart-Disease)
+> **Machine Learning model for early cardiovascular risk assessment**
+
+- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy
+- **Key Features:** 95%+ accuracy, comprehensive data analysis, predictive insights
+- **Impact:** Early detection system potentially saving lives through timely intervention
+
+### 🚗 [Intelligent Car Price Predictor](https://github.com/vinayakjoshi04/Car-Price-Predictor)
+> **Advanced regression model for automotive pricing**
+
+- **Tech Stack:** Python, Advanced Regression Algorithms, Feature Engineering
+- **Key Features:** Real-time price predictions, interactive visualizations
+- **Impact:** Empowering consumers with data-driven pricing insights
+
+### 🍽️ [Mom's Kitchen - Food Delivery Platform](https://github.com/vinayakjoshi04/Moms_Kitchen)
+> **Full-stack food ordering and delivery ecosystem**
+
+- **Tech Stack:** JavaScript, Node.js, Express.js, MongoDB
+- **Key Features:** User authentication, order management, restaurant integration
+- **Impact:** Seamless food delivery experience with intuitive interface
+
+### 🎬 [AI-Powered Movie Recommendation Engine](https://github.com/vinayakjoshi04/Movie_recommendation_System)
+> **Personalized content discovery using collaborative filtering**
+
+- **Tech Stack:** Python, Collaborative Filtering, Content-Based Filtering
+- **Key Features:** Personalized recommendations, user preference learning
+- **Impact:** Enhanced entertainment discovery through intelligent suggestions
+
+### 📧 [Advanced Spam Detection System](https://github.com/vinayakjoshi04/Spam-Mail)
+> **NLP-based email security solution**
+
+- **Tech Stack:** Python, NLP, Text Processing, Classification Algorithms
+- **Key Features:** 98%+ accuracy, real-time processing, adaptive learning
+- **Impact:** Protecting users from malicious content with intelligent filtering
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinayakjoshi04&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakjoshi04&layout=compact&theme=react&hide_border=true" />
+</div>
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakjoshi04&theme=react&hide_border=true" />
+</div>
 
-### 🏥 [Heart Disease Prediction](https://github.com/vinayakjoshi04/Heart-Disease)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge)
-![Healthcare](https://img.shields.io/badge/Healthcare-4ECDC4?style=for-the-badge)
-
-**🎯 Purpose:** Revolutionary ML model for early heart disease detection  
-**🔧 Tech:** Python • Scikit-learn • Pandas • NumPy  
-**📊 Results:** 95%+ accuracy in medical diagnosis prediction  
-**💡 Impact:** Potentially saving lives through early detection
-
-</td>
-<td width="50%">
-
-### 🚗 [Car Price Predictor](https://github.com/vinayakjoshi04/Car-Price-Predictor)
-![Regression](https://img.shields.io/badge/Regression-45B7D1?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/Analytics-F9CA24?style=for-the-badge)
-
-**🎯 Purpose:** Intelligent automotive pricing solution  
-**🔧 Tech:** Python • Advanced Regression • Feature Engineering  
-**📊 Results:** Accurate price predictions with interactive visualizations  
-**💡 Impact:** Helping consumers make informed car buying decisions
-
-</tr>
-<tr>
-<td width="50%">
-
-### 🍽️ [Mom's Kitchen](https://github.com/vinayakjoshi04/Moms_Kitchen)
-![Full-Stack](https://img.shields.io/badge/Full--Stack-6C5CE7?style=for-the-badge)
-![Web App](https://img.shields.io/badge/Web%20App-A29BFE?style=for-the-badge)
-
-**🎯 Purpose:** Complete food delivery ecosystem  
-**🔧 Tech:** JavaScript • Node.js • Express • MongoDB  
-**📊 Results:** User-friendly interface with smart recommendations  
-**💡 Impact:** Connecting food lovers with amazing restaurants
-
-</td>
-<td width="50%">
-
-### 🎬 [Movie Recommendation Engine](https://github.com/vinayakjoshi04/Movie_recommendation_System)
-![Recommendation](https://img.shields.io/badge/Recommendation-E17055?style=for-the-badge)
-![ML](https://img.shields.io/badge/ML-00B894?style=for-the-badge)
-
-**🎯 Purpose:** Personalized movie discovery platform  
-**🔧 Tech:** Python • Collaborative Filtering • Content-Based Filtering  
-**📊 Results:** Highly accurate personalized recommendations  
-**💡 Impact:** Enhancing entertainment experience for users
-
-</tr>
-<tr>
-<td width="50%">
-
-### 📧 [Spam Detection System](https://github.com/vinayakjoshi04/Spam-Mail)
-![NLP](https://img.shields.io/badge/NLP-FF7675?style=for-the-badge)
-![Classification](https://img.shields.io/badge/Classification-74B9FF?style=for-the-badge)
-
-**🎯 Purpose:** Advanced email security solution  
-**🔧 Tech:** Python • NLP • Text Processing • Classification  
-**📊 Results:** 98%+ accuracy in spam detection  
-**💡 Impact:** Protecting users from malicious email content
-
-</td>
-<td width="50%">
-
-### 🏆 [SIH 2023 Innovation](https://github.com/vinayakjoshi04/SIH2023)
-![Hackathon](https://img.shields.io/badge/Hackathon-FD79A8?style=for-the-badge)
-![Innovation](https://img.shields.io/badge/Innovation-FDCB6E?style=for-the-badge)
-
-**🎯 Purpose:** National-level problem-solving challenge  
-**🔧 Tech:** JavaScript • Collaborative Development • Innovation  
-**📊 Results:** Successfully participated in prestigious competition  
-**💡 Impact:** Contributing solutions for national challenges
-
-</tr>
-</table>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayakjoshi04&theme=github_dark" />
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🎯 Current Focus
 
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinayakjoshi04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakjoshi04&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakjoshi04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayakjoshi04&theme=tokyonight" />
-</div>
+- 🔬 **Advanced Machine Learning:** Exploring deep learning architectures and neural networks
+- 🌐 **Modern Web Technologies:** Mastering React.js, Next.js, and cloud deployment
+- 📊 **Data Engineering:** Building robust data pipelines and analytics solutions
+- 🤖 **AI Innovation:** Developing practical AI applications for real-world problems
 
 ---
 
-## 🏅 **Achievements & Milestones**
+## 🏆 Achievements
+
+- 🥇 **Smart India Hackathon 2023** - National Level Participant
+- 🚀 **5+ Production-Ready ML Models** - Deployed and actively used
+- 📈 **Open Source Contributor** - Multiple public repositories with community impact
+- 🎓 **Continuous Learning** - Staying current with latest tech trends and best practices
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-| 🎯 **Achievement** | 📊 **Details** | 🌟 **Impact** |
-|:---|:---|:---|
-| **🏆 SIH 2023 Participant** | National hackathon competitor | Innovation & teamwork excellence |
-| **🤖 ML Projects Portfolio** | 5+ production-ready models | Real-world problem solving |
-| **🌐 Full-Stack Development** | End-to-end applications | Complete solution delivery |
-| **📈 Open Source Contributor** | Multiple public repositories | Community contribution |
-| **🎓 Continuous Learner** | Latest tech stack adoption | Staying ahead of trends |
+**I'm always open to discussing new opportunities, collaborations, and innovative projects!**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinayak-joshi-99521528b/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:vinayakjoshi2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/vinayakjoshi04)
+
+### 💡 Open for:
+**💼 Job Opportunities** • **🤝 Collaborations** • **🚀 Innovative Projects** • **📚 Knowledge Exchange**
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
----
-
-## 🌟 **Current Mission**
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🚀 Current Focus] --> B[🤖 Advanced AI/ML]
-    A --> C[🌐 Modern Web Frameworks]
-    A --> D[☁️ Cloud Architecture]
-    A --> E[📊 Big Data Analytics]
-    
-    B --> F[Deep Learning Models]
-    B --> G[Neural Networks]
-    
-    C --> H[React.js Mastery]
-    C --> I[Next.js Applications]
-    
-    D --> J[AWS Solutions]
-    D --> K[Microservices]
-    
-    E --> L[Real-time Processing]
-    E --> M[Data Pipelines]
-    
-    style A fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
-    style B fill:#4ecdc4,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#45b7d1,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#96ceb4,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#feca57,stroke:#fff,stroke-width:2px,color:#fff
-```
-
-</div>
-
----
-
-## 🤝 **Let's Connect & Collaborate**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="connecting wave" />
-
-### **Ready to build something extraordinary together?**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-joshi-99521528b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayakjoshi2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinayakjoshi04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-
-### **💡 Open to:**
-**🚀 Innovative AI/ML Projects** • **💼 Job Opportunities** • **🤝 Collaboration** • **📚 Knowledge Sharing**
-
----
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-### **"Innovation distinguishes between a leader and a follower."** *- Steve Jobs*
-
-<img src="https://komarev.com/ghpvc/?username=vinayakjoshi04&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+*"The best way to predict the future is to create it."* - **Peter Drucker**
 
 </div>
