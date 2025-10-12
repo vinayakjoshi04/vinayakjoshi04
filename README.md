@@ -60,10 +60,10 @@ me.say_hi()
 ### **Web Development & Frameworks**
 <img src="https://skillicons.dev/icons?i=react,flask,git,github" />
 
-### **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=github,vercel" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Streamlit_Logo.svg" alt="Streamlit" width="20" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Render_Logo.svg" alt="Render" width="20" />
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=github,vercel" alt="GitHub & Vercel" height="25" style="vertical-align:middle; margin-right:5px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Streamlit_Logo.svg" alt="Streamlit" height="25" style="vertical-align:middle; margin-right:5px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Render_Logo.svg" alt="Render" height="25" style="vertical-align:middle;" />
 
 ### **Tools & IDEs**
 <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
