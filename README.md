@@ -47,7 +47,7 @@ me.say_hi()
 <div align="center">
 
 ### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp" />
 
 ### **AI/ML & Data Science**
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
