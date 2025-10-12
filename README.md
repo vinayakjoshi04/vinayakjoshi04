@@ -198,7 +198,7 @@ graph TD
     A[🚀 Current Focus] --> B[🤖 AI / ML / DL]
     
     B --> F[Deep Learning Models]
-    B --> G[Neural Networks]
+    B --> G[Machine Learning]
     B --> N[Generative AI / LLMs]
     
     F --> F1[Convolutional Neural Networks]
