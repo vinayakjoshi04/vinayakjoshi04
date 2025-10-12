@@ -238,24 +238,37 @@ graph TD
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="connecting wave" />
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="connecting wave" width="100%"/>
 
-### **Ready to build something extraordinary together?**
+### **Ready to build something extraordinary together?** 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-joshi-99521528b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayakjoshi2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinayakjoshi04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+<p>
+<a href="https://www.linkedin.com/in/vinayak-joshi-99521528b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:vinayakjoshi2004@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/vinayakjoshi04" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+</p>
 
-### **💡 Open to:**
-**🚀 Innovative AI/ML Projects** • **💼 Job Opportunities** • **🤝 Collaboration** • **📚 Knowledge Sharing**
+### **💡 Open To:**
+**🚀 Cutting-edge AI/ML Projects** • **💼 Career Opportunities** • **🤝 Collaborations** • **📚 Knowledge Sharing**
 
 ---
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
-### **"Innovation distinguishes between a leader and a follower."** *- Steve Jobs*
+> **"Innovation distinguishes between a leader and a follower."**  
+> *– Steve Jobs*
 
-<img src="https://komarev.com/ghpvc/?username=vinayakjoshi04&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=vinayakjoshi04&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
 </div>
