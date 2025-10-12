@@ -170,17 +170,20 @@ Explore my journey in machine learning and AI through these innovative projects 
 
 ---
 
-## 🏅 **Achievements & Milestones**
+## 🏅 **Achievements & Experience**
+
+Explore my journey in machine learning, AI, and full-stack development through achievements, milestones, and practical project experience.
 
 <div align="center">
 
-| 🎯 **Achievement** | 📊 **Details** | 🌟 **Impact** |
+| 🎯 **Achievement / Experience** | 📊 **Details** | 🌟 **Impact** |
 |:---|:---|:---|
-| **🏆 SIH 2023 Participant** | National hackathon competitor | Innovation & teamwork excellence |
-| **🤖 ML Projects Portfolio** | 5+ production-ready models | Real-world problem solving |
-| **🌐 Full-Stack Development** | End-to-end applications | Complete solution delivery |
-| **📈 Open Source Contributor** | Multiple public repositories | Community contribution |
-| **🎓 Continuous Learner** | Latest tech stack adoption | Staying ahead of trends |
+| **🏆 SIH 2023 & SIH 2025 Participant** | National hackathon competitor | Innovation & teamwork excellence |
+| **🤖 ML & AI Projects Portfolio** | Deployed 7+ production-ready ML & web applications across healthcare, education, and entertainment | Real-world problem solving |
+| **🌐 Full-Stack Development** | End-to-end applications with React, Flask, Supabase, Streamlit | Complete solution delivery |
+| **📈 Open Source & Kaggle Contributor** | Multiple public repositories & competitions | Community contribution & skill growth |
+| **🎓 Continuous Learner** | Strong foundation in Machine Learning and currently deep diving into Deep Learning | Staying ahead of trends |
+| **🎯 Academic Excellence** | Computer Science and Engineering | Strong technical foundation |
 
 </div>
 
