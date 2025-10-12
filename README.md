@@ -61,7 +61,9 @@ me.say_hi()
 <img src="https://skillicons.dev/icons?i=react,flask,git,github" />
 
 ### **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=render,streamlit,vercel,github" />
+<img src="https://skillicons.dev/icons?i=github,vercel" />
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary.svg" alt="Streamlit" width="25" style="vertical-align:middle; margin-right:5px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Render_Logo.svg" alt="Render" width="25" style="vertical-align:middle;" />
 
 ### **Tools & IDEs**
 <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
