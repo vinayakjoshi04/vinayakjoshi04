@@ -72,83 +72,80 @@ me.say_hi()
 
 ## 🏆 **Featured Projects**
 
+Explore my journey in machine learning and AI through these innovative projects demonstrating practical applications in healthcare, NLP, computer vision, and intelligent systems.
+
 <div align="center">
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏥 [Heart Disease Prediction](https://github.com/vinayakjoshi04/Heart-Disease)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge)
+### 🏥 [Diabetes Risk Predictor](https://github.com/vinayakjoshi04/Diabetes-Prediction-Web)
+![ML](https://img.shields.io/badge/ML-FF6B6B?style=for-the-badge)
 ![Healthcare](https://img.shields.io/badge/Healthcare-4ECDC4?style=for-the-badge)
 
-**🎯 Purpose:** Revolutionary ML model for early heart disease detection  
-**🔧 Tech:** Python • Scikit-learn • Pandas • NumPy  
-**📊 Results:** 95%+ accuracy in medical diagnosis prediction  
-**💡 Impact:** Potentially saving lives through early detection
+**🎯 Purpose:** Clinical-grade diabetes risk assessment  
+**🔧 Tech:** Python • Scikit-learn • Streamlit  
+**📊 Results:** Accurate predictions & interactive dashboard
 
 </td>
 <td width="50%">
 
-### 🚗 [Car Price Predictor](https://github.com/vinayakjoshi04/Car-Price-Predictor)
-![Regression](https://img.shields.io/badge/Regression-45B7D1?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/Analytics-F9CA24?style=for-the-badge)
+### 🌐 [Hybrid Image Recognition & NLP](https://github.com/vinayakjoshi04/Hybrid-Image-Recognition-and-Information-Extraction-System)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6C5CE7?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-FD79A8?style=for-the-badge)
 
-**🎯 Purpose:** Intelligent automotive pricing solution  
-**🔧 Tech:** Python • Advanced Regression • Feature Engineering  
-**📊 Results:** Accurate price predictions with interactive visualizations  
-**💡 Impact:** Helping consumers make informed car buying decisions
+**🎯 Purpose:** OCR, image captioning, translation, and TTS in one interface  
+**🔧 Tech:** Python • Streamlit • OpenCV • BLIP • Transformers • gTTS  
+**📊 Results:** Seamless AI-assisted image & text processing
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🍽️ [Mom's Kitchen](https://github.com/vinayakjoshi04/Moms_Kitchen)
+### ☁️ [VM Placement & CDN Optimizer](https://github.com/vinayakjoshi04/VM_Placement_and_CDN_Optimization)
+![Cloud](https://img.shields.io/badge/Cloud-45B7D1?style=for-the-badge)
+![Optimization](https://img.shields.io/badge/Optimization-F9CA24?style=for-the-badge)
+
+**🎯 Purpose:** Reduce latency & cost via ML-based VM/CDN optimization  
+**🔧 Tech:** Python • Scikit-learn • LightGBM • XGBoost • PuLP • Plotly  
+**📊 Results:** Real-time analytics dashboard with predictive modeling
+
+</td>
+<td width="50%">
+
+### 🎬 [AI Story Generator](https://github.com/vinayakjoshi04/AI-Story-Generator-GenAI-Project)
+![NLP](https://img.shields.io/badge/NLP-E17055?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/GenAI-00B894?style=for-the-badge)
+
+**🎯 Purpose:** Multi-language story generation with Google Gemini API  
+**🔧 Tech:** Python • Flask • NLP • Text-to-Speech • PDF/TXT export  
+**📊 Results:** Interactive storytelling platform with advanced customization
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍽️ [Mom's Kitchen Food Delivery](https://github.com/vinayakjoshi04/Moms_Kitchen)
 ![Full-Stack](https://img.shields.io/badge/Full--Stack-6C5CE7?style=for-the-badge)
-![Web App](https://img.shields.io/badge/Web%20App-A29BFE?style=for-the-badge)
+![React](https://img.shields.io/badge/React-A29BFE?style=for-the-badge)
 
-**🎯 Purpose:** Complete food delivery ecosystem  
-**🔧 Tech:** JavaScript • Node.js • Express • MongoDB  
-**📊 Results:** User-friendly interface with smart recommendations  
-**💡 Impact:** Connecting food lovers with amazing restaurants
-
-</td>
-<td width="50%">
-
-### 🎬 [Movie Recommendation Engine](https://github.com/vinayakjoshi04/Movie_recommendation_System)
-![Recommendation](https://img.shields.io/badge/Recommendation-E17055?style=for-the-badge)
-![ML](https://img.shields.io/badge/ML-00B894?style=for-the-badge)
-
-**🎯 Purpose:** Personalized movie discovery platform  
-**🔧 Tech:** Python • Collaborative Filtering • Content-Based Filtering  
-**📊 Results:** Highly accurate personalized recommendations  
-**💡 Impact:** Enhancing entertainment experience for users
-
-</tr>
-<tr>
-<td width="50%">
-
-### 📧 [Spam Detection System](https://github.com/vinayakjoshi04/Spam-Mail)
-![NLP](https://img.shields.io/badge/NLP-FF7675?style=for-the-badge)
-![Classification](https://img.shields.io/badge/Classification-74B9FF?style=for-the-badge)
-
-**🎯 Purpose:** Advanced email security solution  
-**🔧 Tech:** Python • NLP • Text Processing • Classification  
-**📊 Results:** 98%+ accuracy in spam detection  
-**💡 Impact:** Protecting users from malicious email content
+**🎯 Purpose:** End-to-end food delivery platform  
+**🔧 Tech:** React • Supabase • JavaScript • UI/UX Design  
+**📊 Results:** Real-time order management & responsive interface
 
 </td>
 <td width="50%">
 
-### 🏆 [SIH 2023 Innovation](https://github.com/vinayakjoshi04/SIH2023)
-![Hackathon](https://img.shields.io/badge/Hackathon-FD79A8?style=for-the-badge)
-![Innovation](https://img.shields.io/badge/Innovation-FDCB6E?style=for-the-badge)
+### 🌧️ [Rain Predictor](https://github.com/vinayakjoshi04/Rain-Predictor)
+![ML](https://img.shields.io/badge/ML-FF6B6B?style=for-the-badge)
+![Weather](https://img.shields.io/badge/Weather-4ECDC4?style=for-the-badge)
 
-**🎯 Purpose:** National-level problem-solving challenge  
-**🔧 Tech:** JavaScript • Collaborative Development • Innovation  
-**📊 Results:** Successfully participated in prestigious competition  
-**💡 Impact:** Contributing solutions for national challenges
+**🎯 Purpose:** Predict rainfall using meteorological data  
+**🔧 Tech:** Python • Flask • Scikit-learn • XGBoost  
+**📊 Results:** 82.43% accuracy with intuitive web interface
 
 </td>
 </tr>
@@ -157,6 +154,7 @@ me.say_hi()
 </div>
 
 ---
+
 
 ## 📊 **GitHub Analytics**
 
