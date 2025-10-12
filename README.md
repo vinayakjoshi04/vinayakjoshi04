@@ -195,28 +195,39 @@ Explore my journey in machine learning, AI, and full-stack development through a
 
 ```mermaid
 graph TD
-    A[🚀 Current Focus] --> B[🤖 Advanced AI/ML]
-    A --> C[🌐 Modern Web Frameworks]
-    A --> D[☁️ Cloud Architecture]
-    A --> E[📊 Big Data Analytics]
+    A[🚀 Current Focus] --> B[🤖 AI / ML / DL]
     
     B --> F[Deep Learning Models]
     B --> G[Neural Networks]
+    B --> N[Generative AI / LLMs]
     
-    C --> H[React.js Mastery]
-    C --> I[Next.js Applications]
+    F --> F1[Convolutional Neural Networks]
+    F --> F2[Recurrent Neural Networks]
+    F --> F3[Transformers]
     
-    D --> J[AWS Solutions]
-    D --> K[Microservices]
+    G --> G1[Supervised Learning]
+    G --> G2[Unsupervised Learning]
+    G --> G3[Reinforcement Learning]
     
-    E --> L[Real-time Processing]
-    E --> M[Data Pipelines]
-    
+    N --> N1[Chatbots & Assistants]
+    N --> N2[Text / Image Generation]
+    N --> N3[Multimodal AI]
+
     style A fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
     style B fill:#4ecdc4,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#45b7d1,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#96ceb4,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#feca57,stroke:#fff,stroke-width:2px,color:#fff
+    style F fill:#ffca3a,stroke:#fff,stroke-width:2px,color:#fff
+    style G fill:#ff6b6b,stroke:#fff,stroke-width:2px,color:#fff
+    style N fill:#6a4c93,stroke:#fff,stroke-width:2px,color:#fff
+    style F1 fill:#ffe066,stroke:#fff,stroke-width:1px,color:#000
+    style F2 fill:#ffe066,stroke:#fff,stroke-width:1px,color:#000
+    style F3 fill:#ffe066,stroke:#fff,stroke-width:1px,color:#000
+    style G1 fill:#ff8787,stroke:#fff,stroke-width:1px,color:#000
+    style G2 fill:#ff8787,stroke:#fff,stroke-width:1px,color:#000
+    style G3 fill:#ff8787,stroke:#fff,stroke-width:1px,color:#000
+    style N1 fill:#a29bfe,stroke:#fff,stroke-width:1px,color:#fff
+    style N2 fill:#a29bfe,stroke:#fff,stroke-width:1px,color:#fff
+    style N3 fill:#a29bfe,stroke:#fff,stroke-width:1px,color:#fff
+
 ```
 
 </div>
