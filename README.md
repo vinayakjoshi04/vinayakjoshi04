@@ -24,11 +24,10 @@ class VinayakJoshi:
         self.position = "AI/ML Engineer & Full-Stack Developer"
         self.education = "Computer Science Student"
         self.code = {
-            "languages": ["Python", "Java", "JavaScript", "C++"],
+            "languages": ["Python", "C++"],
             "specialization": ["Machine Learning", "Deep Learning", "Web Dev"],
-            "tools": ["TensorFlow", "Scikit-learn", "Node.js", "React"],
-            "databases": ["MongoDB", "MySQL", "PostgreSQL"],
-            "cloud": ["AWS", "Google Cloud", "Heroku"]
+            "tools": ["TensorFlow", "Scikit-learn", "Flask", "React"],
+            "cloud": ["Render", "Streamlit Cloud", "Vercel"]
         }
         self.current_focus = "Building AI solutions that matter"
         
