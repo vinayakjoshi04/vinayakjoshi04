@@ -58,7 +58,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 ### **Web Development & Frameworks**
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github" />
+<img src="https://skillicons.dev/icons?i=react,flask,git,github" />
 
 ### **Cloud & DevOps**
 <img src="https://skillicons.dev/icons?i=docker,vercel" />
