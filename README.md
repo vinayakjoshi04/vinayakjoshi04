@@ -61,7 +61,7 @@ me.say_hi()
 <img src="https://skillicons.dev/icons?i=react,flask,git,github" />
 
 ### **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=render,streamli,vercel" />
+<img src="https://skillicons.dev/icons?i=render,streamlit,vercel" />
 
 ### **Tools & IDEs**
 <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
