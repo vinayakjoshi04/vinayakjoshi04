@@ -24,7 +24,7 @@ class VinayakJoshi:
         self.position = "AI/ML Engineer & Full-Stack Developer"
         self.education = "Computer Science Student"
         self.code = {
-            "languages": ["Python", "C++"],
+            "languages": ["Python", "C++", "JavaScript"],
             "specialization": ["Machine Learning", "Deep Learning", "Web Dev"],
             "tools": ["TensorFlow", "Scikit-learn", "Flask", "React"],
             "cloud": ["Render", "Streamlit Cloud", "Vercel"]
@@ -47,7 +47,7 @@ me.say_hi()
 <div align="center">
 
 ### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,cpp" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js" />
 
 ### **AI/ML & Data Science**
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
@@ -70,11 +70,13 @@ me.say_hi()
 
 ---
 
-## 🏆 **Featured Projects**
+## 🏆 **Complete Projects Portfolio**
 
-Explore my journey in machine learning and AI through these innovative projects demonstrating practical applications in healthcare, NLP, computer vision, and intelligent systems.
+Explore my comprehensive journey across AI/ML, full-stack development, and data science. Each project showcases practical problem-solving and real-world applications.
 
 <div align="center">
+
+### **🤖 AI/ML & Deep Learning Projects**
 
 <table>
 <tr>
@@ -86,7 +88,8 @@ Explore my journey in machine learning and AI through these innovative projects 
 
 **🎯 Purpose:** Clinical-grade diabetes risk assessment  
 **🔧 Tech:** Python • Scikit-learn • Streamlit  
-**📊 Results:** Accurate predictions & interactive dashboard
+**📊 Results:** Accurate predictions & interactive dashboard  
+**⭐ Status:** Production-ready ML application
 
 </td>
 <td width="50%">
@@ -95,48 +98,14 @@ Explore my journey in machine learning and AI through these innovative projects 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6C5CE7?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-FD79A8?style=for-the-badge)
 
-**🎯 Purpose:** OCR, image captioning, translation, and TTS in one interface  
-**🔧 Tech:** Python • Streamlit • OpenCV • BLIP • Transformers • gTTS  
-**📊 Results:** Seamless AI-assisted image & text processing
+**🎯 Purpose:** OCR, image captioning, translation, and TTS  
+**🔧 Tech:** Python • OpenCV • BLIP • Transformers • gTTS  
+**📊 Results:** Multimodal AI processing platform  
+**⭐ Status:** Advanced computer vision system
 
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### ☁️ [VM Placement & CDN Optimizer](https://github.com/vinayakjoshi04/VM_Placement_and_CDN_Optimization)
-![Cloud](https://img.shields.io/badge/Cloud-45B7D1?style=for-the-badge)
-![Optimization](https://img.shields.io/badge/Optimization-F9CA24?style=for-the-badge)
-
-**🎯 Purpose:** Reduce latency & cost via ML-based VM/CDN optimization  
-**🔧 Tech:** Python • Scikit-learn • LightGBM • XGBoost • PuLP • Plotly  
-**📊 Results:** Real-time analytics dashboard with predictive modeling
-
-</td>
-<td width="50%">
-
-### 🎬 [AI Story Generator](https://github.com/vinayakjoshi04/AI-Story-Generator-GenAI-Project)
-![NLP](https://img.shields.io/badge/NLP-E17055?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/GenAI-00B894?style=for-the-badge)
-
-**🎯 Purpose:** Multi-language story generation with Google Gemini API  
-**🔧 Tech:** Python • Flask • NLP • Text-to-Speech • PDF/TXT export  
-**📊 Results:** Interactive storytelling platform with advanced customization
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🍽️ [Mom's Kitchen Food Delivery](https://github.com/vinayakjoshi04/Moms_Kitchen)
-![Full-Stack](https://img.shields.io/badge/Full--Stack-6C5CE7?style=for-the-badge)
-![React](https://img.shields.io/badge/React-A29BFE?style=for-the-badge)
-
-**🎯 Purpose:** End-to-end food delivery platform  
-**🔧 Tech:** React • Supabase • JavaScript • UI/UX Design  
-**📊 Results:** Real-time order management & responsive interface
-
-</td>
 <td width="50%">
 
 ### 🌧️ [Rain Predictor](https://github.com/vinayakjoshi04/Rain-Predictor)
@@ -145,7 +114,125 @@ Explore my journey in machine learning and AI through these innovative projects 
 
 **🎯 Purpose:** Predict rainfall using meteorological data  
 **🔧 Tech:** Python • Flask • Scikit-learn • XGBoost  
-**📊 Results:** 82.43% accuracy with intuitive web interface
+**📊 Results:** 82.43% accuracy with web interface  
+**⭐ Status:** Deployed ML web application
+
+</td>
+<td width="50%">
+
+### ❤️ [Heart Disease Prediction](https://github.com/vinayakjoshi04/Heart-Disease)
+![ML](https://img.shields.io/badge/ML-FF6B6B?style=for-the-badge)
+![Healthcare](https://img.shields.io/badge/Healthcare-4ECDC4?style=for-the-badge)
+
+**🎯 Purpose:** Early heart disease risk detection  
+**🔧 Tech:** Python • Scikit-learn • Data Analysis  
+**📊 Results:** Medical diagnostic prediction model  
+**⭐ Status:** 🍴 1 fork - Jupyter Notebook
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚗 [Car Price Predictor](https://github.com/vinayakjoshi04/Car-Price-Predictor)
+![ML](https://img.shields.io/badge/ML-FF6B6B?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Regression-F9CA24?style=for-the-badge)
+
+**🎯 Purpose:** Predict used car prices accurately  
+**🔧 Tech:** Python • Regression Models • Feature Engineering  
+**📊 Results:** Price prediction for automobile market  
+**⭐ Status:** Data science project
+
+</td>
+<td width="50%">
+
+### 📧 [Spam Mail Classifier](https://github.com/vinayakjoshi04/Spam-Mail)
+![ML](https://img.shields.io/badge/ML-FF6B6B?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-FD79A8?style=for-the-badge)
+
+**🎯 Purpose:** Email spam detection system  
+**🔧 Tech:** Python • NLP • Classification Algorithms  
+**📊 Results:** Text classification for email filtering  
+**⭐ Status:** ML classification project
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎬 [Movie Recommendation System](https://github.com/vinayakjoshi04/Movie_recommendation_System)
+![ML](https://img.shields.io/badge/ML-FF6B6B?style=for-the-badge)
+![RecSys](https://img.shields.io/badge/RecSys-E17055?style=for-the-badge)
+
+**🎯 Purpose:** Personalized movie recommendations  
+**🔧 Tech:** Python • Collaborative Filtering • Content-Based  
+**📊 Results:** Smart recommendation engine  
+**⭐ Status:** Entertainment ML system
+
+</td>
+<td width="50%">
+
+### 🎬 [AI Story Generator](https://github.com/vinayakjoshi04/AI-Story-Generator-GenAI-Project)
+![NLP](https://img.shields.io/badge/NLP-E17055?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/GenAI-00B894?style=for-the-badge)
+
+**🎯 Purpose:** Multi-language story generation  
+**🔧 Tech:** Python • Flask • Google Gemini API • TTS  
+**📊 Results:** Interactive storytelling with PDF/TXT export  
+**⭐ Status:** Generative AI platform
+
+</td>
+</tr>
+</table>
+
+### **☁️ Cloud & Optimization Projects**
+
+<table>
+<tr>
+<td width="50%">
+
+### ☁️ [VM Placement & CDN Optimizer](https://github.com/vinayakjoshi04/VM_Placement_and_CDN_Optimization)
+![Cloud](https://img.shields.io/badge/Cloud-45B7D1?style=for-the-badge)
+![Optimization](https://img.shields.io/badge/Optimization-F9CA24?style=for-the-badge)
+
+**🎯 Purpose:** Reduce latency & cost via ML optimization  
+**🔧 Tech:** Python • LightGBM • XGBoost • PuLP • Plotly  
+**📊 Results:** Real-time analytics with predictive modeling  
+**⭐ Status:** Cloud infrastructure optimization
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
+
+### **🌐 Full-Stack Development Projects**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍽️ [Mom's Kitchen Food Delivery](https://github.com/vinayakjoshi04/Moms_Kitchen)
+![Full-Stack](https://img.shields.io/badge/Full--Stack-6C5CE7?style=for-the-badge)
+![React](https://img.shields.io/badge/React-A29BFE?style=for-the-badge)
+
+**🎯 Purpose:** End-to-end food delivery platform  
+**🔧 Tech:** React • Supabase • JavaScript • UI/UX  
+**📊 Results:** Real-time order management system  
+**⭐ Status:** ⭐ 1 star - Production web app
+
+</td>
+<td width="50%">
+
+### 🏆 [SIH 2023 Project](https://github.com/vinayakjoshi04/SIH2023)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Hackathon](https://img.shields.io/badge/Hackathon-FF6B6B?style=for-the-badge)
+
+**🎯 Purpose:** Smart India Hackathon 2023 solution  
+**🔧 Tech:** JavaScript • Web Technologies  
+**📊 Results:** National-level innovation project  
+**⭐ Status:** Hackathon submission
 
 </td>
 </tr>
@@ -154,7 +241,6 @@ Explore my journey in machine learning and AI through these innovative projects 
 </div>
 
 ---
-
 
 ## 📊 **GitHub Analytics**
 
@@ -172,18 +258,36 @@ Explore my journey in machine learning and AI through these innovative projects 
 
 ## 🏅 **Achievements & Experience**
 
-Explore my journey in machine learning, AI, and full-stack development through achievements, milestones, and practical project experience.
-
 <div align="center">
 
 | 🎯 **Achievement / Experience** | 📊 **Details** | 🌟 **Impact** |
 |:---|:---|:---|
 | **🏆 SIH 2023 & SIH 2025 Participant** | National hackathon competitor | Innovation & teamwork excellence |
-| **🤖 ML & AI Projects Portfolio** | Deployed 7+ production-ready ML & web applications across healthcare, education, and entertainment | Real-world problem solving |
-| **🌐 Full-Stack Development** | End-to-end applications with React, Flask, Supabase, Streamlit | Complete solution delivery |
+| **🤖 ML & AI Projects Portfolio** | Deployed 12+ production-ready ML & web applications | Real-world problem solving across domains |
+| **🌐 Full-Stack Development** | End-to-end applications with React, Flask, Supabase | Complete solution delivery |
+| **🏥 Healthcare AI Solutions** | 3 medical prediction systems (Diabetes, Heart Disease, Health Monitoring) | Impactful healthcare technology |
 | **📈 Open Source & Kaggle Contributor** | Multiple public repositories & competitions | Community contribution & skill growth |
-| **🎓 Continuous Learner** | Strong foundation in Machine Learning and currently deep diving into Deep Learning | Staying ahead of trends |
+| **🎓 Continuous Learner** | Deep diving into Deep Learning & Generative AI | Staying ahead of AI/ML trends |
 | **🎯 Academic Excellence** | Computer Science and Engineering | Strong technical foundation |
+
+</div>
+
+---
+
+## 📚 **Project Categories Summary**
+
+<div align="center">
+
+| Category | Count | Key Technologies |
+|:---------|:------|:----------------|
+| 🤖 **AI/ML Projects** | 8 | Scikit-learn, TensorFlow, XGBoost, NLP |
+| 🏥 **Healthcare AI** | 3 | Medical Prediction Models, Clinical Systems |
+| 🌐 **Full-Stack Apps** | 2 | React, Flask, Supabase, JavaScript |
+| ☁️ **Cloud & Optimization** | 1 | LightGBM, PuLP, Cloud Infrastructure |
+| 🎬 **Generative AI** | 1 | Google Gemini API, Story Generation |
+| 📊 **Data Science** | 5 | Jupyter Notebooks, Data Analysis, Visualization |
+
+**Total Projects: 12+ Production-Ready Applications**
 
 </div>
 
@@ -227,7 +331,6 @@ graph TD
     style N1 fill:#a29bfe,stroke:#fff,stroke-width:1px,color:#fff
     style N2 fill:#a29bfe,stroke:#fff,stroke-width:1px,color:#fff
     style N3 fill:#a29bfe,stroke:#fff,stroke-width:1px,color:#fff
-
 ```
 
 </div>
