@@ -11,7 +11,7 @@
 
 ## Professional Summary
 
-Computer Science student specializing in Artificial Intelligence, Machine Learning, and Full-Stack Development. Proven track record of developing and deploying 12+ production-grade applications across healthcare analytics, computer vision, natural language processing, and cloud infrastructure optimization. Demonstrated expertise in building end-to-end AI solutions with measurable business impact and scalable architecture.
+Computer Science student specializing in Artificial Intelligence, Machine Learning, and Full-Stack Development. Proven track record of developing and deploying 6+ applications across healthcare analytics, natural language processing, and cloud infrastructure optimization. Demonstrated expertise in building end-to-end AI solutions with measurable business impact and scalable architecture.
 
 **Core Competencies:** Machine Learning Engineering • Deep Learning • Computer Vision • Natural Language Processing • Full-Stack Development • Cloud Architecture • Data Science & Analytics
 
