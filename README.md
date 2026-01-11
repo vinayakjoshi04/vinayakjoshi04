@@ -56,6 +56,7 @@ me.say_hi()
 ### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### AI/ML & Data Science
@@ -64,11 +65,13 @@ me.say_hi()
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Web Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -177,12 +180,13 @@ Hybrid recommendation engine
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinayakjoshi04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakjoshi04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayakjoshi04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/vinayakjoshi04)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakjoshi04&theme=tokyonight&hide_border=true"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinayakjoshi04&theme=tokyonight&hide_border=true)](https://github.com/vinayakjoshi04)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakjoshi04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/vinayakjoshi04)
+
 </div>
 
 ---
