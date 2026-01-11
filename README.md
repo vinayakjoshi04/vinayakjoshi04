@@ -1,277 +1,274 @@
-# Vinayak Joshi
-
-**AI/ML Engineer | Full-Stack Developer | Computer Science Student**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-joshi-99521528b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://vinayak-s-portfolio-website.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vinayakjoshi2004@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/vinayakjoshi04?label=GitHub&style=flat&logo=github)](https://github.com/vinayakjoshi04)
-
----
-
-## Professional Summary
-
-Computer Science student specializing in Artificial Intelligence, Machine Learning, and Full-Stack Development. Proven track record of developing and deploying 6+ applications across healthcare analytics, natural language processing, and cloud infrastructure optimization. Demonstrated expertise in building end-to-end AI solutions with measurable business impact and scalable architecture.
-
-**Core Competencies:** Machine Learning Engineering • Deep Learning • Computer Vision • Natural Language Processing • Full-Stack Development • Cloud Architecture • Data Science & Analytics
-
----
-
-## Technical Expertise
-
-### Programming & Scripting
-`Python` `C++` `JavaScript` `SQL` `Bash`
-
-### Machine Learning & Deep Learning
-`TensorFlow` `PyTorch` `Scikit-learn` `XGBoost` `LightGBM` `Keras` `NLTK` `spaCy` `Hugging Face Transformers`
-
-### Computer Vision & Image Processing
-`OpenCV` `PIL` `BLIP` `Object Detection` `Image Segmentation` `OCR`
-
-### Data Science & Analytics
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `Plotly` `Statistical Modeling` `Feature Engineering` `Data Visualization`
-
-### Web Development & Frameworks
-`React.js` `Flask` `Streamlit` `Node.js` `REST APIs` `Supabase` `HTML5` `CSS3` `JavaScript ES6+`
-
-### Development Tools & Platforms
-`Git` `GitHub` `Docker` `VS Code` `PyCharm` `Jupyter Notebook` `Google Colab` `Vercel` `Render`
-
-### Specializations
-Machine Learning Model Development • Deep Neural Networks • Ensemble Methods • Predictive Analytics • Cloud Optimization • MLOps • Agile Development
-
----
-
-## Professional Projects
-
-### Artificial Intelligence & Machine Learning
-
-#### **Hybrid Image Recognition & Information Extraction System**
-[Repository](https://github.com/vinayakjoshi04/Hybrid-Image-Recognition-and-Information-Extraction-System) | `Python` `OpenCV` `BLIP` `Transformers` `gTTS`
-
-Developed a comprehensive multimodal AI platform integrating optical character recognition, image captioning, machine translation, and text-to-speech synthesis. Implemented state-of-the-art transformer architectures for seamless cross-modal information processing with support for multiple languages.
-
-**Key Achievements:**
-- Integrated multiple AI models into a unified processing pipeline
-- Implemented real-time OCR with 95%+ accuracy
-- Deployed production-ready web interface for end users
-
----
-
-#### **Cloud Infrastructure Optimization System**
-[Repository](https://github.com/vinayakjoshi04/VM_Placement_and_CDN_Optimization) | `Python` `LightGBM` `XGBoost` `PuLP` `Plotly`
-
-Engineered an ML-based optimization framework for intelligent virtual machine placement and CDN configuration, resulting in significant latency reduction and cost optimization for cloud infrastructure management.
-
-**Key Achievements:**
-- Developed predictive models for resource allocation optimization
-- Built real-time analytics dashboard with interactive visualizations
-- Implemented mathematical optimization algorithms using PuLP
-
----
-
-#### **AI-Powered Story Generation Platform**
-[Repository](https://github.com/vinayakjoshi04/AI-Story-Generator-GenAI-Project) | `Python` `Flask` `Google Gemini API` `NLP` `TTS`
-
-Created a generative AI platform leveraging large language models for multi-language narrative generation with integrated text-to-speech conversion and document export capabilities.
-
-**Key Achievements:**
-- Integrated Google Gemini API for advanced text generation
-- Implemented multi-format export functionality (PDF, TXT)
-- Developed Flask-based RESTful API architecture
-
----
-
-### Healthcare Analytics & Predictive Modeling
-
-#### **Diabetes Risk Assessment System**
-[Repository](https://github.com/vinayakjoshi04/Diabetes-Prediction-Web) | `Python` `Scikit-learn` `Streamlit` `Healthcare Analytics`
-
-Production-deployed clinical decision support system utilizing ensemble learning techniques for diabetes risk prediction. Developed interactive web interface designed for healthcare professionals with real-time prediction capabilities.
-
-**Key Achievements:**
-- Achieved 85%+ prediction accuracy using ensemble methods
-- Deployed via Streamlit for immediate clinical accessibility
-- Implemented comprehensive data preprocessing pipeline
-
----
-
-#### **Heart Disease Prediction Model**
-[Repository](https://github.com/vinayakjoshi04/Heart-Disease) | `Python` `Scikit-learn` `Medical Analytics`
-
-Developed supervised learning models for cardiovascular disease risk assessment using clinical features and advanced feature engineering techniques. Model designed for early detection and preventive healthcare applications.
-
-**Key Achievements:**
-- Analyzed clinical datasets with 13+ medical parameters
-- Implemented feature selection and dimensionality reduction
-- Achieved high recall for positive disease prediction
-
----
-
-#### **Rainfall Prediction System**
-[Repository](https://github.com/vinayakjoshi04/Rain-Predictor) | `Python` `Flask` `Scikit-learn` `XGBoost`
-
-Built a weather forecasting system achieving 82.43% accuracy for rainfall prediction using ensemble machine learning methods. Deployed as web application with RESTful API for real-time meteorological forecasting.
-
-**Key Achievements:**
-- Processed multi-dimensional weather datasets
-- Implemented XGBoost and ensemble techniques
-- Deployed production-ready Flask web application
-
----
-
-### Data Science & Analytics Projects
-
-#### **Movie Recommendation Engine**
-[Repository](https://github.com/vinayakjoshi04/Movie_recommendation_System) | `Python` `Collaborative Filtering` `Content-Based Filtering`
-
-Implemented a hybrid recommendation system combining collaborative and content-based filtering techniques for personalized movie suggestions. Utilized cosine similarity and matrix factorization for enhanced recommendation accuracy.
-
-**Key Achievements:**
-- Processed large-scale movie datasets
-- Implemented hybrid filtering approach
-- Optimized recommendation latency
-
----
-
-#### **Automobile Price Prediction Model**
-[Repository](https://github.com/vinayakjoshi04/Car-Price-Predictor) | `Python` `Regression Analysis` `Feature Engineering`
-
-Developed regression-based pricing model for used automobile market analysis. Implemented comprehensive feature engineering, outlier detection, and model validation techniques.
-
-**Key Achievements:**
-- Analyzed 10+ vehicle attributes for price prediction
-- Implemented polynomial regression and regularization
-- Achieved R² score > 0.85
-
----
-
-#### **Email Spam Classification System**
-[Repository](https://github.com/vinayakjoshi04/Spam-Mail) | `Python` `NLP` `Text Classification`
-
-Built text classification system for automated spam detection using natural language processing and machine learning algorithms. Implemented TF-IDF vectorization and multiple classification algorithms.
-
-**Key Achievements:**
-- Achieved 95%+ classification accuracy
-- Implemented NLP preprocessing pipeline
-- Compared multiple classification algorithms
-
----
-
-### Full-Stack Development
-
-#### **Mom's Kitchen - Food Delivery Platform**
-[Repository](https://github.com/vinayakjoshi04/Moms_Kitchen) | `React.js` `Supabase` `JavaScript` `⭐ 1`
-
-Developed a comprehensive food delivery web application with real-time order management, secure user authentication, and responsive design. Implemented database integration for menu management and order tracking.
-
-**Key Features:**
-- User authentication and authorization system
-- Real-time order tracking and management
-- Responsive UI/UX design for mobile and desktop
-- Database integration with Supabase
-
----
-
-#### **Smart India Hackathon 2023 Solution**
-[Repository](https://github.com/vinayakjoshi04/SIH2023) | `JavaScript` `Web Technologies`
-
-National-level hackathon submission demonstrating innovative problem-solving and technical implementation. Developed under time constraints with focus on scalability and user experience.
-
----
-
-## Academic Achievements & Recognition
-
-**Smart India Hackathon**
-- **SIH 2025** - Participant | National-level innovation competition
-- **SIH 2023** - Participant | Nationwide hackathon demonstrating technical excellence
-
-**Technical Accomplishments**
-- 12+ production-ready ML and web applications deployed
-- 3 specialized healthcare AI prediction systems
-- Active contributor to open-source projects
-- Kaggle competitions participant
-
-**Research Focus Areas**
-- Deep Learning architectures: CNNs, RNNs, Transformers
-- Generative AI and Large Language Models
-- Computer Vision applications
-- Natural Language Processing
-
-**Academic Background**
-- Bachelor of Technology in Computer Science and Engineering
-- Specialization in Artificial Intelligence and Machine Learning
-- Strong foundation in algorithms, data structures, and software engineering
-
----
-
-## Repository Statistics
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayakjoshi04&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+# 👋 Hi, I'm Vinayak Joshi
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinayakjoshi04&theme=default&hide_border=true)
+### AI/ML Engineer | Full-Stack Developer | Computer Science Student
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakjoshi04&layout=compact&theme=default&hide_border=true&langs_count=8)
+<p>
+  <a href="https://www.linkedin.com/in/vinayak-joshi-99521528b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://vinayak-s-portfolio-website.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:vinayakjoshi2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=vinayakjoshi04&color=0A66C2&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## Project Portfolio Overview
+## 🚀 About Me
 
-| **Domain** | **Count** | **Primary Technologies** |
-|:-----------|:---------:|:------------------------|
-| Machine Learning & AI | 8 | Python, TensorFlow, Scikit-learn, XGBoost |
-| Healthcare Analytics | 3 | Clinical ML Models, Predictive Analytics |
-| Full-Stack Applications | 2 | React, Flask, Database Management |
-| Cloud & Optimization | 1 | LightGBM, Mathematical Optimization |
-| Generative AI | 1 | LLMs, Google Gemini API, NLP |
-| Data Science | 5 | Statistical Analysis, Visualization, EDA |
+```python
+class VinayakJoshi:
+    def __init__(self):
+        self.role = "AI/ML Engineer & Full-Stack Developer"
+        self.location = "India"
+        self.education = "B.Tech in Computer Science & Engineering"
+        self.focus = ["Machine Learning", "Deep Learning", "Web Development"]
+        self.currently_learning = ["Advanced Deep Learning", "MLOps", "LLMs"]
+        
+    def get_tech_stack(self):
+        return {
+            "languages": ["Python", "C++", "JavaScript", "SQL"],
+            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "XGBoost"],
+            "web": ["React.js", "Flask", "Streamlit", "Node.js"],
+            "tools": ["Git", "Docker", "VS Code", "Jupyter"],
+            "cloud": ["Vercel", "Render", "Streamlit Cloud"]
+        }
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together 🚀")
 
-**Total Production-Grade Applications:** 12+
-
----
-
-## Current Research & Development
-
-**Active Focus Areas:**
-- Advanced Deep Learning architectures (CNNs, RNNs, Attention mechanisms, Transformers)
-- Large Language Models and prompt engineering
-- MLOps best practices and model deployment strategies
-- Scalable AI systems and distributed computing
-- Computer Vision for real-world applications
-
-**Technologies Under Exploration:**
-- Advanced PyTorch implementations
-- Kubernetes for ML model deployment
-- CI/CD pipelines for ML projects
-- Advanced NLP with transformer architectures
+me = VinayakJoshi()
+me.say_hi()
+```
 
 ---
 
-## Professional Contact
+## 🛠️ Tech Stack
 
-**Open to Opportunities In:**
-- Machine Learning Engineering Positions
-- AI Research Collaborations
-- Full-Stack Development Projects
-- Open Source Contributions
-- Technical Consulting
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Get In Touch:**
-- **Email:** [vinayakjoshi2004@gmail.com](mailto:vinayakjoshi2004@gmail.com)
-- **LinkedIn:** [linkedin.com/in/vinayak-joshi-99521528b](https://www.linkedin.com/in/vinayak-joshi-99521528b/)
-- **Portfolio:** [vinayak-s-portfolio-website.vercel.app](https://vinayak-s-portfolio-website.vercel.app/)
-- **GitHub:** [github.com/vinayakjoshi04](https://github.com/vinayakjoshi04)
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
+
+## 💼 Featured Projects
+
+### 🤖 AI & Machine Learning
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏥 [Diabetes Prediction System](https://github.com/vinayakjoshi04/Diabetes-Prediction-Web)
+Clinical decision support system using ensemble ML methods
+- **Tech**: Python, Scikit-learn, Streamlit
+- **Accuracy**: 85%+
+- **Status**: ✅ Deployed
+
+</td>
+<td width="50%">
+
+#### 🌐 [Hybrid Image Recognition](https://github.com/vinayakjoshi04/Hybrid-Image-Recognition-and-Information-Extraction-System)
+Multimodal AI platform with OCR, captioning & translation
+- **Tech**: OpenCV, BLIP, Transformers, gTTS
+- **Features**: Multi-language support
+- **Status**: ✅ Production
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### ☁️ [Cloud Infrastructure Optimizer](https://github.com/vinayakjoshi04/VM_Placement_and_CDN_Optimization)
+ML-based VM placement & CDN optimization
+- **Tech**: LightGBM, XGBoost, PuLP
+- **Impact**: Reduced latency & costs
+- **Features**: Real-time analytics dashboard
+
+</td>
+<td width="50%">
+
+#### 📖 [AI Story Generator](https://github.com/vinayakjoshi04/AI-Story-Generator-GenAI-Project)
+Generative AI platform for creative writing
+- **Tech**: Flask, Google Gemini API, NLP
+- **Features**: Multi-language, TTS, PDF export
+- **Status**: ✅ Deployed
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🌧️ [Rainfall Predictor](https://github.com/vinayakjoshi04/Rain-Predictor)
+Weather forecasting with ensemble methods
+- **Tech**: Flask, XGBoost, Scikit-learn
+- **Accuracy**: 82.43%
+- **Features**: RESTful API
+
+</td>
+<td width="50%">
+
+#### ❤️ [Heart Disease Predictor](https://github.com/vinayakjoshi04/Heart-Disease)
+Cardiovascular risk assessment model
+- **Tech**: Python, Scikit-learn
+- **Features**: 13+ clinical parameters
+- **Focus**: Early detection
+
+</td>
+</tr>
+</table>
+
+### 🌐 Full-Stack Applications
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🍽️ [Mom's Kitchen](https://github.com/vinayakjoshi04/Moms_Kitchen)
+Food delivery platform with real-time ordering
+- **Tech**: React.js, Supabase, JavaScript
+- **Features**: Authentication, order tracking
+- **⭐ 1 Star**
+
+</td>
+<td width="50%">
+
+#### 🎬 [Movie Recommendation System](https://github.com/vinayakjoshi04/Movie_recommendation_System)
+Hybrid recommendation engine
+- **Tech**: Python, Collaborative Filtering
+- **Approach**: Content + Collaborative
+- **Features**: Personalized suggestions
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinayakjoshi04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakjoshi04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakjoshi04&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🏅 Hackathons
+**Smart India Hackathon**
+- SIH 2025 Participant
+- SIH 2023 Participant
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 Projects
+**12+ Deployed Apps**
+- 8 ML/AI Projects
+- 3 Healthcare Systems
+- 2 Full-Stack Apps
+
+</td>
+<td align="center" width="33%">
+
+### 📚 Learning
+**Continuous Growth**
+- Deep Learning
+- MLOps & Deployment
+- Large Language Models
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Current Focus
+
+```mermaid
+mindmap
+  root((AI/ML Focus))
+    Deep Learning
+      CNNs
+      RNNs
+      Transformers
+    Machine Learning
+      Supervised Learning
+      Ensemble Methods
+      Feature Engineering
+    Generative AI
+      LLMs
+      Prompt Engineering
+      Multi-modal AI
+    MLOps
+      Model Deployment
+      CI/CD Pipelines
+      Monitoring
+```
+
+---
+
+## 🤝 Let's Connect!
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vinayakjoshi04&color=0A66C2&style=flat-square&label=Profile+Views)
+### I'm always open to interesting projects and collaborations!
 
-**"The best way to predict the future is to invent it."** — Alan Kay
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinayak-joshi-99521528b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel)](https://vinayak-s-portfolio-website.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:vinayakjoshi2004@gmail.com)
+
+### 💡 Open To:
+**AI/ML Projects** • **Full-Stack Development** • **Open Source Contributions** • **Research Collaborations**
+
+---
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+*"The best way to predict the future is to invent it."* — Alan Kay
+
+⭐️ From [vinayakjoshi04](https://github.com/vinayakjoshi04)
 
 </div>
